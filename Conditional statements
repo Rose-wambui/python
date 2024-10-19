@@ -1,0 +1,6 @@
+# conditional statements
+name = "wambui"
+if name == "rose":
+    print("good")
+else:
+    print("bad")
